@@ -3,4 +3,5 @@
 A Flutter App to calculate health parameters like BMI , WHR 
 
 ###Some Images of App
-![](https://github.com/Mukund-Tandon/Health-Cal/screenshots/)
+
+<img src " https://github.com/Mukund-Tandon/Health-Cal/screenshot
