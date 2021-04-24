@@ -14,3 +14,4 @@ A Flutter App to calculate health parameters like BMI , WHR
 
 ## Things i learned from this project
 * Using basic Flutter Widgets to create beautiful UI 
+* Using packages
