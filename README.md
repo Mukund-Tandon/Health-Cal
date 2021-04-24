@@ -12,3 +12,5 @@ A Flutter App to calculate health parameters like BMI , WHR
 
 <a href ="https://flutter.dev/" > <img src="https://user-images.githubusercontent.com/71614009/115812209-a46c7200-a40e-11eb-848f-ac8b30bc41fb.png" width ="50" alt ="Flutter"> </a> <a href ="https://dart.dev/"><img src="https://user-images.githubusercontent.com/71614009/115811626-abdf4b80-a40d-11eb-861b-3e1fbb0dcb5d.png" width ="50" alt="Dart"></a>
 
+## Things i learned from this project
+* Using basic Flutter Widgets to create beautiful UI 
